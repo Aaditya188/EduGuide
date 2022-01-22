@@ -1,0 +1,8 @@
+tensorflow-cpu
+bokeh==2.4.1
+numpy
+pandas
+streamlit
+joblib
+pathlib
+nltk
