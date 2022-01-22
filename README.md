@@ -1,1 +1,1 @@
-# EduGuide
+# OneEdu
