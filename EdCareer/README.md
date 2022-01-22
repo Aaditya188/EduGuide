@@ -31,10 +31,10 @@ This is the open-source repository for the EdCareer Bot web-app.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-EdCareer Bot.git
+        git clone https://github.com/Aaditya188/EduGuide.git
 - Enter The directory: 
 
-        cd Hacknight-EdCareer Bot
+        cd EdCareer Bot
 - Run the Python setup:
         
         python setup.py
